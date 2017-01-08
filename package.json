@@ -23,7 +23,7 @@
     "winston-mail": "^1.0.1"
   },
   "scripts": {
-  "start": "node server.js"
+  "start": "app.js"
 },
   "repository": {
     "type": "git",
