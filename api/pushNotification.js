@@ -31,10 +31,6 @@ var ionicPushServer = function (credentials, notification) {
 
 };
 
-var credentials = {
-  IonicApplicationID: config.ionic.appId,
-  IonicApplicationAPIsecret: config.ionic.apiSecret
-};
 
 var iosSettings = {
   "badge": 1,
